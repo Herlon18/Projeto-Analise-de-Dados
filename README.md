@@ -10,9 +10,25 @@ E finalizando com o potly.express para uma melhor visualização com gráficos.
 
 # Informações retiradas da análise
 
-Cliente 8499
+## Segue Gráficos Principais Analisados
 
-Cancelado 1627
+<img src="/img/Ativos e Cancelados.jpg">
+
+<img src="/img/Categoria do Cartão.jpg">
+
+<img src="/img/Contato.jpg">
+
+<img src="/img/Limite Consumido.jpg">
+
+<img src="/img/Produtos Contratados.jpg">
+
+<img src="/img/Qtd de Transações.jpg">
+
+<img src="/img/Valor de Transações.jpg">
+
+### Clientes Ativos - 8499
+
+### Cancelados - 1627
 
 
 - A maior parte dos Clientes estão na Categoria Blue, consequentemente a
