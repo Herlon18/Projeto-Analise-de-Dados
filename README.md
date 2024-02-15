@@ -11,6 +11,7 @@ E finalizando com o potly.express para uma melhor visualização com gráficos.
 # Informações retiradas da análise
 
 Cliente 8499
+
 Cancelado 1627
 
 
