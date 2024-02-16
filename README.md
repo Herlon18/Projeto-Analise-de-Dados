@@ -8,11 +8,12 @@ proposito de descobrir a causa da maior parte dos cancelamentos dos clientes.
 Inicialmente importando o banco de dados com a ferramenta pandas para realizar o tratamento
 dos dados.
 Realizei o tratamento dos dados escolhendo as colunas que teria informações relevantes para análise, separando quantidade de clientes em cada status e tratando-os.
+
 Verifiquei o percentual das colunas em texto tabela para assim poder transformar os dados em gráficos e obter uma melhor análise.
 
 Finalizando com o potly.express e plotly.graph_objects para uma melhor visualização com gráficos.
 Realizei o projeto com base no acompanhamento no minicurso, porém, para finalizar adicionei varios outros elementos
-para que o projeto fique realmente do jeito que eu gostaria.
+para que o projeto fique realmente do jeito que eu gostaria e de acordo com meu conhecimento adquirido e pesquisado por fora.
 
 # Informações retiradas da análise
 
